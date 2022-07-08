@@ -13,8 +13,6 @@ Edenia runs independent blockchain infrastructure and develops web3 solutions. O
 
 ---
 
-<br />
-
 ![Metrics](/profile/metrics.svg)
 
 </span>
