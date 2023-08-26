@@ -7,10 +7,6 @@
 
 Edenia specializes in deploying independent blockchain infrastructure and crafting cutting-edge web3 solutions. With a legacy that traces back to 1987, our technology-agnostic team continuously harnesses the latest innovations to enhance internet security, efficiency, and transparency.
 
----
-
-Edenia se especializa en el despliegue de infraestructura blockchain independiente y en la elaboración de soluciones web3 de vanguardia. Con un legado que se remonta a 1987, nuestro equipo agnóstico en tecnología aprovecha continuamente las últimas innovaciones para mejorar la seguridad, eficiencia y transparencia de internet.
-
 <!-- ![Metrics](/profile/metrics.svg) -->
 
 </span>
