@@ -1,12 +1,13 @@
 <span align="center">
 
-<a href="https://edenia.com"><img width="400" alt="image" src="https://raw.githubusercontent.com/edenia/.github/refs/heads/master/.github/workflows/images/edenia-logo.png"></img></a>
+<a href="https://edenia.com"><img width="400" alt="Edenia" src="https://raw.githubusercontent.com/edenia/.github/refs/heads/master/.github/workflows/images/edenia-logo.png"></a>
 
-[![Twitter](https://img.shields.io/twitter/follow/EdeniaWeb3?style=for-the-badge)](https://twitter.com/EdeniaWeb3)
-[![Discord](https://img.shields.io/discord/946500573677625344?color=black&label=discord&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/YeGcF6QwhP)
+[![Follow @EdeniaWeb3](https://img.shields.io/twitter/follow/EdeniaWeb3?style=for-the-badge)](https://twitter.com/EdeniaWeb3)
 
-Edenia specializes in deploying independent blockchain infrastructure and crafting cutting-edge web3 solutions. With a legacy that traces back to 1987, our technology-agnostic team continuously harnesses the latest innovations to enhance internet security, efficiency, and transparency.
+**Internet infrastructure from Costa Rica since 1987.**
 
-<!-- ![Metrics](/profile/metrics.svg) -->
+Edenia builds and runs independent internet and blockchain infrastructure — hosting, nodes, and tools for operators who want sovereignty without the hyperscaler stack. Our team in San José ships technology-agnostic systems that keep networks secure, efficient, and open.
+
+[edenia.com](https://edenia.com) · [CR Servers](https://crservers.com)
 
 </span>
